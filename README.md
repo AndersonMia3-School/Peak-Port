@@ -1,4 +1,4 @@
 # Peak-Port
 
-Web port of Peak, by Dasher.
+My web port of the game Peak
 
